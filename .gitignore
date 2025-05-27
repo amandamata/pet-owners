@@ -1,0 +1,43 @@
+/target
+/classes
+/checkouts
+profiles.clj
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+/.prepl-port
+.hgignore
+.hg/
+.clj-kondo
+.lsp
+.calva
+
+# Clojure/Leiningen
+/.cpcache
+/.nrepl-history
+/.dir-locals.el
+/.cider-repl-history
+/.cider-nrepl
+/.shadow-cljs
+/.shadow-cljs/**
+/node_modules
+/yarn-error.log
+package-lock.json
+npm-debug.log
+
+# Editor/IDE
+.idea/
+*.iml
+*.swp
+*~
+.DS_Store
+
+# VS Code
+.vscode/
+.code-workspace
+
+# Test output
+/test-output
