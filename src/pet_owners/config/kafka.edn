@@ -1,0 +1,4 @@
+{:bootstrap-servers "localhost:9092"
+ :topic-name "pet-owners-topic"
+ :group-id "pet-owners-group"
+ :auto-offset-reset "earliest"}
